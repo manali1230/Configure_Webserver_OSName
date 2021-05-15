@@ -1,0 +1,7 @@
+[RedhatOS]
+192.168.43.165 ansible_user=root ansible_ssh_pass=**** ansible_connection=ssh
+
+[UbuntuOS]
+192.168.43.112 ansible_user=root ansible_ssh_pass=**** ansible_connection=ssh
+
+
